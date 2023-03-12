@@ -1,0 +1,2 @@
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\WSUnivarsalLib493Sapr\obj\Debug\WSUnivarsalLib493Sapr.csproj.AssemblyReference.cache
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\WSUnivarsalLib493Sapr\obj\Debug\WSUnivarsalLib493Sapr.csproj.CoreCompileInputs.cache
