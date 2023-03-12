@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using WSUnivarsalLib493Sapr;
+using WSUnivarsalLib;
 
 namespace Test_Unit
 {
@@ -26,7 +26,7 @@ namespace Test_Unit
             float widthTest = 20;
             float lengthTest = 45;
 
-            int expeResult = 114568;
+            int expeResult = 150549;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -116,7 +116,7 @@ namespace Test_Unit
             float widthTest = 20;
             float lengthTest = 45;
 
-            double expeResult = 3.5;
+            double expeResult = 48341;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -131,7 +131,7 @@ namespace Test_Unit
             float widthTest = 20;
             float lengthTest = 45;
 
-            double expeResult = 2.5;
+            double expeResult = 34530;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -141,12 +141,12 @@ namespace Test_Unit
         public void GetQuantityForProduct_CoefficientProduct_3()
         {
             int prodTest = 2;
-            int matrTest = 3;
+            int matrTest = 1;
             int countTest = 15;
-            float widthTest = 0;
+            float widthTest = 20;
             float lengthTest = 45;
 
-            double expeResult = 10.9;
+            double expeResult = 34530;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -156,12 +156,12 @@ namespace Test_Unit
         public void GetQuantityForProduct_CoefficientMaterial_1()
         {
             int prodTest = 3;
-            int matrTest = 7;
+            int matrTest = 2;
             int countTest = 15;
             float widthTest = 20;
             float lengthTest = 45;
 
-            double expeResult = 2.31;
+            double expeResult = 150270;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -171,12 +171,12 @@ namespace Test_Unit
         public void GetQuantityForProduct_CoefficientMaterial_2()
         {
             int prodTest = 3;
-            int matrTest = 7;
+            int matrTest = 1;
             int countTest = 15;
             float widthTest = 20;
             float lengthTest = 45;
 
-            double expeResult = 2.12;
+            double expeResult = 150549;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -191,7 +191,7 @@ namespace Test_Unit
             float widthTest = 20;
             float lengthTest = 45;
 
-            double expeResult = 100;
+            double expeResult = 150549;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -221,7 +221,7 @@ namespace Test_Unit
             float widthTest = 20;
             float lengthTest = 45;
 
-            double expeResult = 323864;
+            double expeResult = 150549;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 
@@ -240,7 +240,7 @@ namespace Test_Unit
 
             prodTest = Convert.ToInt32(prodTypeFloat);
 
-            double expeResult = 3;
+            double expeResult = -1;
             int actualResult = calculator.GetQuantityForProduct(prodTest, matrTest, countTest, widthTest, lengthTest);
             Assert.AreEqual(expeResult, actualResult);
 

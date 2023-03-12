@@ -1,2 +1,15 @@
 D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\obj\Debug\Test-Unit.csproj.AssemblyReference.cache
 D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\obj\Debug\Test-Unit.csproj.CoreCompileInputs.cache
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\Test-Unit.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\Test-Unit.pdb
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\Microsoft.Analytics.Types.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\Microsoft.Analytics.UnitTest.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\WSUnivarsal.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\WSUnivarsal.pdb
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\obj\Debug\Test-Unit.csproj.CopyComplete
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\obj\Debug\Test-Unit.dll
+D:\ДЗ подготовка\WSUnivarsalLib493Sapr\Test-Unit\obj\Debug\Test-Unit.pdb

@@ -59,9 +59,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WSUnivarsalLib493Sapr\WSUnivarsalLib493Sapr.csproj">
-      <Project>{08fa0aad-ef0f-4868-996c-3fa44364da92}</Project>
-      <Name>WSUnivarsalLib493Sapr</Name>
+    <ProjectReference Include="..\WSUnivarsal\WSUnivarsalLib.csproj">
+      <Project>{0910c4eb-0651-45ef-a551-c0f519bce484}</Project>
+      <Name>WSUnivarsalLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
